@@ -3,7 +3,7 @@
   ![Badge](https://img.shields.io/badge/license-MIT-green)
   ## Description
   This application is a simple version of the most widely played casino banking game in the world, Blackjack. I created this project for my portfolio for a bit of fun!
-  Deployed Application: []()
+  Deployed Application: (https://mw18.github.io/blackjack/)
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
